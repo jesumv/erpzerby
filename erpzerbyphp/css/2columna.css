@@ -1,0 +1,205 @@
+
+
+#bandasup{
+	
+	background-color:#c0c0c0;
+	height: 10em;
+	padding-left: 1em;
+	padding-bottom: 1em;
+}
+
+
+#zerby{
+
+width:400px;
+float:left;
+margin-right:6em;
+}
+
+
+#titpag {
+
+	margin-top:1em;
+}
+
+#logoprinc{
+	width:120px;
+	height:80px;
+	margin-top:-20px;
+	float:left;
+}
+
+#logoprinc1{
+	width:120px;
+	height:80px;
+	margin-top:1em;
+	float:left;
+}
+
+#derarr{
+	float:left;
+	padding-left:1em;
+	margin:1em;
+	clear:right;
+	width:750px;
+
+}
+
+
+/* menu de navegación con subcategorias --------------------------------------------------------------------*/
+/* http://www.webdesignerwall.com*/
+
+
+
+a {
+	color: #004080;
+}
+
+#nav {
+	width:80%;
+	margin-left: auto ;
+  	margin-right: auto ;
+  	padding: 7px 6px 0;
+
+	padding: 1px 6px 0;
+	overflow:hidden;
+	line-height: 100%;
+}
+#nav li {
+	background: #004000;
+	margin: 0 2px;
+	padding: 0 0 8px;
+	float: left;
+	position: relative;
+	list-style: none;
+}
+
+
+/* main level link */
+#nav a {
+	font-weight: bold;
+	color:#ffffff;
+	text-decoration: none;
+	display: block;
+	padding:  8px 20px;
+	margin: 1px;
+	text-shadow: 0 1px 1px rgba(0,0,0, .3);
+}
+#nav a:hover {
+	background: #00ff80;
+	color: #808080;
+}
+
+/* main level link hover */
+#nav .current a, #nav li:hover > a {
+
+	color: #ffffff;
+	border-top: solid 1px #f8f8f8;
+	text-shadow: 0 1px 1px rgba(0,0,0, .3);
+}
+
+/* sub levels link hover */
+#nav ul li:hover a, #nav li:hover li a {
+	background: #008080;
+	border: none;
+	color: #c0c0c0;
+
+}
+#nav ul a:hover {
+	color: #808080 !important;
+	text-shadow: 0 1px 1px rgba(0,0,0, .1);
+}
+
+/* dropdown */
+#nav li:hover > ul {
+	display: block; 
+	
+}
+
+
+/* level 2 list */
+#nav ul {
+
+	display: none;
+
+	margin: 0;
+	padding: 0;
+	width: 185px;
+
+	top: 35px;
+	left: 0;
+	background: #c0c0c0;
+	border: solid 1px #b4b4b4;
+
+}
+
+#nav ul li {
+	background: #008080;
+	float: none;
+	margin: 0;
+	padding: 0;
+}
+
+#nav ul a {
+	font-weight: normal;
+	text-shadow: 0 1px 0 #fff;
+}
+
+/* level 3+ list */
+#nav ul ul {
+	left: 181px;
+	top: -3px;
+}
+
+
+
+/* clearfix */
+#nav:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+#nav {
+	display: inline-block;
+} 
+html[xmlns] #nav {
+	display: block;
+}
+ 
+* html #nav {
+	height: 1%;
+}
+/*----------------------------------------------------------------------------*/
+
+
+/*------DIVISION EN 2 COLUMNAS -----------------------------------------------*/
+
+#twocolumn{
+	width:100%;
+	margin:0 auto;
+	background:#99c;
+}
+
+#colizq{
+	width:40%;
+	padding:5px;
+	float:left;
+	border:1px solid black;
+	background:#9c9;
+}
+
+
+#colder{
+	width:50%;
+	padding:5px;
+	float:right;
+	border:1px solid black;
+	background:#0080ff;
+}
+
+#colizq.h2{
+	
+}

@@ -1,0 +1,124 @@
+body#solicita{background-color:#eec6a8}
+body#confirma{background-color:#9ea4d6}
+
+table#resumen{
+/*Esta	division para la tabla de resumen de la orden de compra*/
+	width: 35%;
+	margin-left: auto;
+	margin-right:auto;
+	margin-bottom: 1em;
+  	background-color:#c0c0c0;
+}
+
+
+
+table.acciones{
+	font-size: .75em;
+	margin-left: 251px;
+}
+
+.acciones td.rh{
+	width:108px;
+}
+.acciones td.cl{
+	width:212px;
+	text-align:center;
+}
+
+.acciones .obs{
+	height: 50px;
+}
+
+table.tfila{
+/*Esta division es para la fila superior con orden y cliente*/
+	margin-left:251px;
+
+}
+
+.tfila th{
+	background-color:#c0c0c0;
+}
+
+.tfila th.inic{
+	width:108px;
+}
+
+.tfila th.subsec{
+	width:212px;
+}
+
+.tfila tr td.uno{
+	background-color:#008080;
+}
+
+.tfila tr td.dos{
+	background-color:#edaa45;
+}
+
+#tablaprinc{
+	margin-left: 6px;
+}
+
+#tablaprinc th{
+	background-color:#408080;
+}
+
+#tablaprinc th.desc{
+	width:212px;
+	
+}
+
+#tablaprinc th.izq{
+	width:72px;
+}
+
+#tablaprinc th.der{
+	width:52px;
+}
+
+
+
+#tablaprinc tr td.cant{
+	text-align:right;
+}
+
+#tablaprinc th.ent{
+	width:76px;
+	background-color:#804040;
+}
+
+
+
+#tablaprinc tr td.entc{
+	text-align: center;
+	background-color:#ffff80;
+	width:54px;
+}
+
+
+/*un input box con tamaño 6 texto centrado */
+.input4c{
+	size:6;
+}
+
+table.bfila{
+/*Esta division es para la parte inferior del cuadro de ordenes*/
+	margin-left: 251px;
+
+}
+
+
+.bfila tr td.enc{
+	width:108px;
+}
+
+.bfila tr td.imptot{
+	width:212px;
+	text-align:right;
+}
+
+.bfila tr td{
+	text-align:right;
+}
+
+

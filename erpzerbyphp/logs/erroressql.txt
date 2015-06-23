@@ -1,0 +1,15 @@
+2013-04-07T17:16:11-05:00You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4
+2013-04-07T17:19:23-05:00You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4
+2013-04-07T17:26:12-05:00You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4
+2013-04-07T17:30:08-05:00You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4
+2013-04-07T17:35:09-05:00You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4
+2013-04-07T17:39:47-05:00You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4
+2013-04-07T17:43:37-05:00You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4
+2013-04-07T17:45:20-05:00You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4
+2013-04-07T17:52:31-05:00You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4
+2013-04-07T17:55:27-05:00You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4
+2013-04-07T21:50:20-05:00You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4
+2013-04-07T21:59:44-05:00You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4
+2013-04-07T22:00:49-05:00You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4
+2013-04-07T22:02:09-05:00You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4
+2013-07-11T16:28:50-05:00You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'factura = '1234' WHERE orden = 2400158890' at line 1
